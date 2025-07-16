@@ -1,6 +1,6 @@
 # cole-aws-ai-practitioner-roadmap
 
-# 🧠 AWS AI Practitioner: Agile Learning Journey
+# AWS AI Practitioner: Agile Learning Journey
 
 Welcome! This is my 60-day Agile Learning roadmap to prepare for and earn the **AWS Certified AI Practitioner** certification.
 
@@ -18,12 +18,12 @@ I'm applying Agile and Scrum principles to manage my study process, build real p
 
 ---
 
-## 🔗 Project Quick Links
+## 🔗 Project Quick Links (All are coming soon)
 
-- 📖 [My 60-Day Learning Plan](#)
-- 📂 [Project 1: Reframed AI Build (Coming Soon)](#)
-- 📄 [Sprint Reflections](#)
-- 🧠 [Certification Resources](#)
+- [My 60-Day Learning Plan](#)
+- [Project 1: Reframed AI Build](#)
+- [Sprint Reflections](#)
+- [Certification Resources](#)
 
 ---
 
@@ -36,7 +36,7 @@ I'm applying Agile and Scrum principles to manage my study process, build real p
 
 ---
 
-## 🧩 Sprint 1: Certify & Reframe
+## Sprint 1: Certify & Reframe
 
 ### Focus:
 - AWS Skill Builder: Modules 1–3
@@ -64,12 +64,11 @@ I'm applying Agile and Scrum principles to manage my study process, build real p
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a strategic, people-first leader with expertise in Cloud, AI, and Learning Experience Design. I created this Agile Learning journey to grow deeper in AI architecture, align my skills with emerging roles, and share my process publicly.
 
-🔗 [LinkedIn](#) • 🌐 [Blog](#) • 🧠 [Portfolio Site](#)
-
+🔗 [LinkedIn](https://www.linkedin.com/in/nicoleannhargrove/)• 🌐 [Blog](https://www.nicoleannhargrove.com/blog) • 🧠 [Portfolio Site](https://www.nicoleannhargrove.com/portfolio)
 ---
 
 _This repo will be updated throughout the 60-day journey. Stay tuned!_
